@@ -6,8 +6,9 @@
   
 .banner{
   width:100%;
-  height:full;
-  background-image: linear-gradient(rgba(255,0,0),rgba(255,0,0)),url(<img src="https://cdn.discordapp.com/attachments/921405535725699072/931988007165259846/background.jpg">);
+  height:0vh;
+  background-image: linear-gradient(rgb(151, 21, 21),rgba(151, 21, 21)), url(<img src="https://cdn.discordapp.com/attachments/921405535725699072/931988007165259846/background.jpg">);
   background-size: cover;
-  background-position: right;
+  background-position:fullscreen;
+  
 }
