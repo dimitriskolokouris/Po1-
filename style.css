@@ -1,3 +1,13 @@
+
+/* Style the header */
+.header {
+  background-color: #a2f4ff;
+  background-image: linear-gradient( rgb(0, 255, 242), rgb(118, 189, 185));
+  padding: 15px;
+  text-align: center;
+  font-size: 35px;
+}
+/*Background*/
 html
 {
   background-attachment: fixed;
@@ -22,6 +32,7 @@ img{
   
 }
 
+/*Navigation Bar */
 ul {
   position: fixed;
   top: 0;
@@ -49,7 +60,7 @@ li a:hover {
   background-color: rgb(202, 18, 18);
 }
 
-.contact{
+.contact.html{
   {
   background-attachment: fixed;
   background-size: cover;
@@ -58,4 +69,14 @@ li a:hover {
 }
 }
 
+
+/* Footer */
+.footer {
+  background-color: rgb(124, 11, 11);
+  background-image: linear-gradient(rgb(124, 11, 11), rgb(124, 11, 11));
+  padding: 10px;
+  text-align: center;
+  border: 5px, solid, black;
+
+}
 
