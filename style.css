@@ -49,5 +49,13 @@ li a:hover {
   background-color: rgb(202, 18, 18);
 }
 
+.contact{
+  {
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url(bordo.png)
+}
+}
 
 
