@@ -93,3 +93,47 @@ align-items: center;
 
 
 
+
+
+
+  
+  h1{
+    font-size:1em;
+   margin:0;
+   padding:0;
+   text-align: center;
+   position: absolute;
+   top: 50%;
+   left: 30%;
+   transform: translateX(-50%) translateY(-50%);
+   color: white;
+   background-color: blue;
+  }
+  
+  h2{
+    font-size:1em;
+   margin:0;
+   padding:0;
+   text-align: center;
+   position: absolute;
+   top: 50%;
+   left: 30%;
+   transform: translateX(-50%) translateY(-50%);
+   color: white;
+   background-color: blue;
+  }
+  
+  h3{
+    font-size:1em;
+   margin:0;
+   padding:0;
+   text-align: center;
+   position: absolute;
+   top: 70%;
+   left: 30%;
+   transform: translateX(-50%) translateY(-50%);
+   color: white;
+   background-color: blue;
+  }
+
+  
