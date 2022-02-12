@@ -57,14 +57,32 @@ li a:hover {
 
 
 .row{
-  margin-top: 100px;
+  position: fixed;
   width: 75ch;
+  top: 40%;
+  
+  
+  
 }
 
+h1{
+font-size:6em;
+  text-align: center;
+ position: absolute;
+ top: 30%;
+ left: 18%;
+ transform: translateX(-50%) translateY(-50%);
+ color: rgb(0, 0, 0);
+ border-style:solid;
+   border-width:5px;
+   border-color:black;
+}
 
-
-
-
+img{
+  width: 40%;
+  height:40%;
+  transform: translateX(120%) translateY(90%);
+}
 
 
 
@@ -82,9 +100,9 @@ li a:hover {
   padding: 10px;
   text-align: center;
   border: 5px, solid, black;
+  
 
 }
-
 
 
 
