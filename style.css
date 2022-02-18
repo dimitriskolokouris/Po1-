@@ -62,7 +62,7 @@ body{
     
 
   }
-  h1{
+h1{
    font-size:7em;
    margin:0;
    padding:0;
@@ -76,31 +76,27 @@ body{
    border-style: solid;
    border-width: 5px;
    border-color: black;
-  
-   
+}
 
-  }
-
-  h3{
-    font-size:3em;
-   margin:0;
-   padding:0;
-   text-align: center;
-   position: absolute;
-   top: 60%;
-   left: 30.8%;
-   transform: translateX(-40%) translateY(-40%);
-   color: black;
-   background-color: #8B0000;
-   border-style: solid;
-   border-width: 5px;
-   border-color: black;
-  }
+h3{
+  font-size:3em;
+  margin:0;
+  padding:0;
+  text-align: center;
+  position: absolute;
+  top: 60%;
+  left: 30.8%;
+  transform: translateX(-40%) translateY(-40%);
+  color: black;
+  background-color: #8B0000;
+  border-style: solid;
+  border-width: 5px;
+  border-color: black;
+}
 
 
 /* Footer */
 .footer {
-  
   position:fixed;
   bottom:0;
   width:100%;
@@ -111,7 +107,6 @@ body{
   padding: 10px;
   text-align: center;
   border: 5px, solid, black;
-
 }
 
 /* video position */
